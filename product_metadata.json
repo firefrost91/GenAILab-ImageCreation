@@ -1,0 +1,25 @@
+{									
+  "products": [
+    {
+      "name": "Stanley Quencher H2.0 FlowState Tumbler (40 oz)",
+      "review_csv": "stanley_reviews.csv",
+      "url": "https://www.amazon.com/Quencher-H2-0-FlowStateTM-Tumbler-Quartz/dp/B0BD6XRYK8",
+      "description": "Constructed of recycled stainless steel for sustainable sipping, our 40 oz Quencher H2.0 offers maximum hydration with fewer refills. Commuting, studio workouts, day trips or your front porch—youll want this tumbler by your side. Thanks to STANLEYs vacuum insulation, your water will stay ice-cold, hour after hour. The advanced FlowState lid features a rotating cover with three positions: a straw opening designed to resist splashes while holding the reusable straw in place, a drink opening, and a full-cover top. The 40-ounce Quencher H2.0 FlowState™ Tumbler keeps your drink ice cold for hours, thanks to double-wall vacuum insulation. The versatile FlowState™ 3-position lid has three sip settings: one for the reusable straw, one without and the option to rotate the silicone cover shut."
+    },
+    {
+      "name": "Apple AirPods 4 Wireless Earbuds",
+      "review_csv": "airpods_reviews.csv",
+      "url": "https://www.amazon.com/Apple-Headphones-Cancellation-Transparency-Personalized/dp/B0DGJ7HYG1",
+      "description": "AirPods 4 have been redesigned for exceptional all-day comfort and greater stability, with a refined contour and shorter stem. Powered by the H2 chip, they deliver high-quality audio via a custom high-excursion Apple driver and a high dynamic range amplifier. They offer Active Noise Cancellation, Adaptive Audio (which blends ANC and Transparency mode), Personalized Spatial Audio with dynamic head tracking, Voice Isolation for clearer calls, Adaptive EQ, and a vent system for pressure equalization. Sensors include dual beamforming microphones, inward-facing microphone, optical in-ear sensor, motion- and speech-detecting accelerometers, and a force sensor — enabling media controls, voice assistant (Siri), and automatic wear detection. The charging case is compact, supports USB-C (and Qi-certified wireless charging on some variants), and includes a speaker for use with \"Find My\". Battery life reaches up to 5 hours on a single charge (up to 30 hours total with the charging case)."
+    },
+    {
+      "name": "LEGO Star Wars AT-TE Walker (75337)",
+      "review_csv": "lego_atte_reviews.csv",
+      "url": "https://www.lego.com/en-us/product/at-te-walker-75337",
+      "description": "Recreate the Battle of Utapau with this LEGO® Star Wars™ AT-TE Walker (75337). The buildable model features posable legs, a 360° rotating elevating heavy blaster cannon with two stud shooters, plus a detachable minifigure cockpit and two detailed cabins with space for up to seven minifigures inside. The set includes 1,082 pieces, five LEGO Star Wars minifigures (Commander Cody, a 212th Clone Gunner and three 212th Clone Troopers), three Battle Droids, and a buildable Dwarf Spider Droid — all with weapons and accessories. The walker has an extendable handle for easy lifting and moving, and its compartments open for easy access to the cockpit and troop cabins. Assembled model measures over 7.5 in (19 cm) high, 17 in (44 cm) long, and 9.5 in (24 cm) wide. Designed for builders ages 9 and up, it makes a great collectible or display piece for Star Wars fans and LEGO® enthusiasts."
+    }
+    
+    
+
+  ]
+}
